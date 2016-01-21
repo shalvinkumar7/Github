@@ -1,0 +1,1 @@
+system 'ruby Trial2.rb'
